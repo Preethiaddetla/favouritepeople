@@ -1,0 +1,131 @@
+.home{
+   background-image: url(background\ fav.jpg);
+   height: 700px;
+   width: 1500px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+.heading{
+   margin-left: 20px;
+}
+.a1{
+   margin-left: 80px;
+   font-size: 20px;
+}
+.a2{
+   font-size: 20px;
+}
+.a3{
+   font-size: 20px;
+}
+.a4{
+   font-size: 20px;
+}
+.a5{
+   font-size: 20px;
+}
+.div1{
+   background-image: url(vishwanath.webp);
+  height: 700px;
+  width: 1500px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+   
+}
+.name1{
+   color: aliceblue;
+   margin-left: 20px;
+   text-decoration: underline;
+  
+ 
+}
+.para1{
+   color: aliceblue;
+   margin-right: 750px;
+   font-size: 20px;
+   margin-left: 20px;
+   text-align: justify;
+
+}
+.div2{
+   background-image: url(wp5274755-anirudh-ravichander-wallpapers.jpg);
+   height: 700px;
+   width: 1500px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+    
+}
+.name2{
+   color: aliceblue;
+   margin-top: 20px;
+   text-decoration: underline;
+}
+.para2{
+   color: aliceblue;
+   margin-right: 850px;
+   font-size: 20px;
+   text-align: justify;
+   margin-left: 20px;
+}
+.div3{
+   background-image: url(sudha\ murthy.png);
+   height: 700px;
+   width: 1500px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+.name3{
+   color: aliceblue;
+   margin-left: 20px;
+   text-decoration: underline;
+}
+.para3{
+   color: aliceblue;
+   margin-right: 800px;
+   font-size: 20px;
+   text-align: justify;
+   margin-left: 20px;
+}
+.div4{
+   background-image: url(kapil\ sharmaa.png);
+   height: 700px;
+   width: 1500px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+.name4{
+   color: aliceblue;
+   margin-left: 20px;
+   text-decoration: underline;
+}
+.para4{
+   color: aliceblue;
+   margin-right: 850px;
+   font-size: 20px;
+   text-align: justify;
+   margin-left: 20px;
+}
+.div5{
+   background-image: url(rowan.png);
+   height: 800px;
+   width: 1500px;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   
+}
+.name5{
+   color: aliceblue;
+   margin-left: 20px;
+   text-decoration: underline;
+  
+}
+.para5{
+   color: aliceblue;
+   margin-right: 750px;
+   font-size: 20px;
+   text-align: justify;
+   margin-left: 20px;
+
+}
+
